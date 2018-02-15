@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\Debug\DA2_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_2.map</FILE>
+  <FILE>DA2_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>26</LINE></main>
+  <TIM0_OVF><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>89</LINE></TIM0_OVF>
+  <FOREVER><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>36</LINE></FOREVER>
+  <LOOP_FOREVER><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>47</LINE></LOOP_FOREVER>
+  <CHECK_TOG_5><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>55</LINE></CHECK_TOG_5>
+  <NOT_EQ_5><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>62</LINE></NOT_EQ_5>
+  <CHECK_TOG_10><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>65</LINE></CHECK_TOG_10>
+  <NOT_EQ_10><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>72</LINE></NOT_EQ_10>
+  <AGAIN_LOOP><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>78</LINE></AGAIN_LOOP>
+  <AGAIN><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>80</LINE></AGAIN>
+  <IF_NEQ><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>150</LINE></IF_NEQ>
+  <NEGEDGE><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>134</LINE></NEGEDGE>
+  <END_TIM0_OVF><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS2\DA2_2\DA2_2\main.asm</FILE><LINE>157</LINE></END_TIM0_OVF>
+ </LABELS>
+</ASSEMBLER_INFO>
