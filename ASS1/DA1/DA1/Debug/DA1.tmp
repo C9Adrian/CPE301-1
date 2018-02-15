@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\Debug\DA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1.map</FILE>
+  <FILE>DA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>11</LINE></main>
+  <store_loop><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>33</LINE></store_loop>
+  <exit_store><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>42</LINE></exit_store>
+  <sum_loop><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>46</LINE></sum_loop>
+  <DIV_7><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>78</LINE></DIV_7>
+  <DIV_3><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>98</LINE></DIV_3>
+  <DONT_OUT_4><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>64</LINE></DONT_OUT_4>
+  <DONT_OUT_3><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>70</LINE></DONT_OUT_3>
+  <end><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>72</LINE></end>
+  <div_loop_7><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>82</LINE></div_loop_7>
+  <POSTIVE_7><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>91</LINE></POSTIVE_7>
+  <NEGATIVE_7><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>95</LINE></NEGATIVE_7>
+  <div_loop_3><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>102</LINE></div_loop_3>
+  <POSTIVE_3><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>111</LINE></POSTIVE_3>
+  <NEGATIVE_3><FILE>C:\Users\Luis\Documents\Atmel Studio\7.0\CPE301\ASS1\DA1\DA1\main.asm</FILE><LINE>115</LINE></NEGATIVE_3>
+ </LABELS>
+</ASSEMBLER_INFO>
